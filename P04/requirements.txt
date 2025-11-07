@@ -1,0 +1,5 @@
+# Dependencias del proyecto 
+# RPi.GPIO se instala en la terminal de la Rasp Pi con 'pip3 install RPi.GPIO'
+
+flask
+requests
