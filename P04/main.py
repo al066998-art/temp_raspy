@@ -14,7 +14,7 @@ from src.client.api_client import SensorAPIClient
 from src.hardware.servo import Servo
 
 SERVO_PIN = 18 
-API_BASE_URL = "http://127.0.0.1:5000" 
+API_BASE_URL = "http://192.168.137.225:5000" 
 
 # Configurar mensajes de estado
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
